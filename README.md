@@ -4,7 +4,7 @@ An E-Commerce Store for Shoes, made as part of Fundamentals of Database Manageme
 
 
 ### Front End Preview
-<img src="/Images/Store/store_1.png" width="350" style="display: inline;"> <img src="/Images/Store/store_2.png" width="350" style="display: inline;">
+<img src="/Images/Store/store_1.png" width="500" style="display: inline;"> <img src="/Images/Store/store_2.png" width="500" style="display: inline;">
 <img src="/Images/Store/store_3.png" width="500" style="display: inline;"> <img src="/Images/Store/store_4.png" width="500" style="display: inline;">
 
 
